@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>2gp 2020-2021</title>
+</head>
+
+<body>
+    <header>
+        <h1> Recursos Interactivos Aplicados</h1>
+        <h2>Judit Navarro</h2>
+        <style type="text/css">
+            header { background: aqua; }
+        </style>
+    </header>
+    <main>
+        <section>
+            <h3>Proyectos</h3>
+        </section>
+        <h3>Recursos</h3>
+        <ul>
+            <li><a href="https://www.freecodecamp.org/learn"></a></li>
+            <li><a href="https://developer.mozilla.org/es/"></a></li>
+        </ul>
+    </main>
+    <footer>
+    <ul>
+        <li> <span style="background: red">ins</span>@judnavarros</li>
+        <li>@judnavarros</li>
+    </ul>
+
+    </footer>
+</body>
+
+</html>
